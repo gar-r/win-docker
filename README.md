@@ -1,0 +1,1 @@
+This is a basic docker-compose file for [dockurr/windows](https://github.com/dockur/windows).
